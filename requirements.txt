@@ -1,1 +1,7 @@
+fuzz
+os
+pandas
+streamlit
+io
+base64
 fuzzywuzzy

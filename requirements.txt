@@ -1,6 +1,1 @@
 fuzzywuzzy
-pandas
-streamlit
-io
-base64
-

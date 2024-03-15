@@ -1,3 +1,4 @@
 fuzzywuzzy
 pandas
 streamlit
+openpyxl
